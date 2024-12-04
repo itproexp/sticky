@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-08 11:43+0300\n"
 "PO-Revision-Date: 2023-03-13 00:37+0300\n"
-"Last-Translator: David Lapshin\n"
+"Last-Translator: David Lapshin, Zolotarev Dmitry\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 #: data/com.vixalien.sticky.desktop.in.in:3
 #: data/com.vixalien.sticky.appdata.xml.in.in:7
 msgid "Pin notes to your desktop"
-msgstr ""
+msgstr "Прикрепи заметку на свой рабочий стол"
 
 #: data/com.vixalien.sticky.desktop.in.in:4
 #: data/com.vixalien.sticky.appdata.xml.in.in:6 data/ui/notes.ui:32
@@ -54,7 +54,7 @@ msgstr "простое форматирование (жирный, курсив,
 #: data/com.vixalien.sticky.appdata.xml.in.in:16
 msgid "notes are restored if they were open when the application was closed"
 msgstr ""
-"заметки восстанавливаются если они были открыты во время закрытия приложения"
+"заметки восстанавливаются, если они были открыты во время закрытия приложения"
 
 #: data/com.vixalien.sticky.appdata.xml.in.in:17
 msgid "changing color of notes"
